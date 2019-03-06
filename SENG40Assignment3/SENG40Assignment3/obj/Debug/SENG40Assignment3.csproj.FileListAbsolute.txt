@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\bin\Debug\SENG40Assignment3.exe.config
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\bin\Debug\SENG40Assignment3.exe
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\bin\Debug\SENG40Assignment3.pdb
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\obj\Debug\SENG40Assignment3.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\obj\Debug\SENG40Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\obj\Debug\SENG40Assignment3.csproj.CopyComplete
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\obj\Debug\SENG40Assignment3.exe
+C:\Users\HP\source\repos\SENG40Assignment3\SENG40Assignment3\obj\Debug\SENG40Assignment3.pdb

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\obj\Debug\TestCaseClass.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\obj\Debug\TestCaseClass.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\TestCaseClass.dll
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\TestCaseClass.pdb
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\nunit.framework.dll
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\SENG40Assignment3.exe
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\SENG40Assignment3.pdb
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\SENG40Assignment3.exe.config
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\bin\Debug\nunit.framework.xml
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\obj\Debug\TestCaseClass.csproj.CopyComplete
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\obj\Debug\TestCaseClass.dll
+C:\Users\HP\source\repos\SENG40Assignment3\TestCaseClass\obj\Debug\TestCaseClass.pdb
